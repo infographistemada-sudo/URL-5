@@ -1,0 +1,101 @@
+Prenom,Nom,Email_Original,Resultat_Original,Domaine,Serveur_MX,Catch_All,Email_Valide_Trouve,Resultat_Nouvelle_Verification,Nb_Formats_Testes,Niveau_Confiance
+Justine,Caron,justine.caron@hotelbb.com,,hotelbb.com,aspmx.l.google.com,Non,justine@hotelbb.com,Valide (SMTP 250),8,Élevé
+justine,colladant,justine.colladant@zoobeauval.com,,zoobeauval.com,zoobeauval-com.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+justine,dormio,justine.dormio@domedevincennes.fr,,domedevincennes.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+justine,durand,justine.durand@moon-nantes.fr,,moon-nantes.fr,mx1.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+justine,françois,justine.francois@ospachinon.com,,ospachinon.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+justine,gerald,justine.gerald@disney.com,,disney.com,disney-com.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+justine,guerout,justine.guerout@lvrivieraspa.com,,lvrivieraspa.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+Justine,Lebossé,justine.lebosse@hotel-spaberyl.com,,hotel-spaberyl.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Justine,Lecoq,justine.lecoq@lessaules-hotel.com,,lessaules-hotel.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Justine,Marreau,justine.marreau@le-richelieu.com,,le-richelieu.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+justine,metz,justine.metz@hammam-lescentciels.com,,hammam-lescentciels.com,oblis2.serveur-dedie.fr,Non,,Aucun format validé par SMTP,8,Très faible
+justine,queruel,justine.queruel@maisonobono.com,,maisonobono.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Justine,Sourisseau,justine.sourisseau@cgh-residences.com,,cgh-residences.com,mx-mibc-fr-10.mailinblack.com,Non,,Aucun format validé par SMTP,8,Très faible
+Justine,Trova,justine.trova@versionmaquis.com,,versionmaquis.com,vade-mx-fr02.hornetsecurity.com,Non,,Aucun format validé par SMTP,8,Très faible
+justine,zeroual,justine.zeroual@accor.com,,accor.com,accor.in.tmes.trendmicro.eu,Non,justine.zeroual@accor.com,Valide (SMTP 250),1,Élevé
+Justine,BERNARD,justine@bernard-spavendeuse.fr,,bernard-spavendeuse.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Justine,Coroir,justine@coroir-responsable.fr,,coroir-responsable.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Justine,FANTAUZZA,justine@domainedecanaille.com,,domainedecanaille.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+Justine,Vanderschaegh,justine@evasion-bienetre.fr,,evasion-bienetre.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Justine,Gauthier,justine@spassima.com,,spassima.com,mx1.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Jean-Yves,Baudoin,jy.baudoin@bellesrives.com,,bellesrives.com,bellesrives-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,9,Très faible
+jean-yves,soumah,jy.soumah@nordiquefrance.com,,nordiquefrance.com,mta-gw.infomaniak.ch,Non,soumah@nordiquefrance.com,Valide (SMTP 250),8,Élevé
+jean-yves,tregouet,jy.tregouet@arenadour.com,,arenadour.com,vade-mx-fr01.hornetsecurity.com,Non,,Aucun format validé par SMTP,9,Très faible
+Karine,BARDY,k.bardy@appartcity.com,,appartcity.com,appartcity-com.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Karine,Barjolle,k.barjolle@arrelia.com,,arrelia.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Karine,BERTHET (ICARD),k.berthet@cc-lmv.fr,,cc-lmv.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Kennoc’ha,Bigot,k.bigot@relais-thalasso.com,,relais-thalasso.com,ns7.squallnetwork.net,Non,,Aucun format validé par SMTP,8,Très faible
+krystel,blondeau,k.blondeau@louvre-hotels.com,,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,kblondeau@louvre-hotels.com,Valide (SMTP 250),4,Élevé
+Boutin,Karine,k.boutin@sources-caudalie.com,,sources-caudalie.com,sourcescaudalie-com01i.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,9,Très faible
+kimberley,brulin,k.brulin@louvre-hotels.com,,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+katalin,catalin,k.catalin@louvre-hotels.com,,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+kanen yasoodas,cundapah,k.cundapah@louvre-hotels.com,,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Karine,Girard,k.girard@colvert.com,,colvert.com,colvert-com.mail.eo.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Kévin,Guillard,k.guillard@vert-marine.com,,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,kevin.guillard@vert-marine.com,Valide (SMTP 250),2,Élevé
+karim,hamoudi,k.hamoudi@louvre-hotels.com,,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+khadija,ibrahimi,k.ibrahimi@louvre-hotels.com,,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Karolina,Igalson,k.igalson@larobeyere.com,,larobeyere.com,larobeyere-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Khatim,Ketfi,k.ketfi@accelis.com,,accelis.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+karine,lalande,k.lalande@latelierdubienetre.fr,,latelierdubienetre.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Karine,Marchandou,k.marchandou@thalazur.fr,,thalazur.fr,mx1.coaxis.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Kristelle,MARTIN,k.martin@espaceetvie.fr,,espaceetvie.fr,espaceetvie-fr.mail.protection.outlook.com,Non,kristelle.martin@espaceetvie.fr,Valide (SMTP 250),2,Élevé
+karim,massoud,k.massoud@kmhotels.com,,kmhotels.com,kmhotels-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Karine,Morot-Gaudry,k.morotgaudry@logishotels.com,,logishotels.com,logishotels-com.mail.protection.outlook.com,Non,kmorotgaudry@logishotels.com,Valide (SMTP 250),4,Élevé
+Karine,Morvan,k.morvan@leclosdupontic.com,,leclosdupontic.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Koumba,Niakate,k.niakate@hoteldebrienne.com,,hoteldebrienne.com,hoteldebrienne-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+karine,rahami,k.rahami@louvre-hotels.com,,louvre-hotels.com,louvrehotels-com01e.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Karim,Soleilhavoup,k.soleilhavoup@logishotels.com,,logishotels.com,logishotels-com.mail.protection.outlook.com,Non,ksoleilhavoup@logishotels.com,Valide (SMTP 250),4,Élevé
+Klaudia,Szpila,k.szpila@mycodage.com,,mycodage.com,aspmx.l.google.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Kader,Terfas,k.terfas@operalia-lespins.com,,operalia-lespins.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Kloe,VAN DE VELDE,k.vandevelde@aubergedecassagne.com,,aubergedecassagne.com,aubergedecassagne-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Ketty,Virassamy,k.virassamy@terrake.com,,terrake.com,terrake.com,Non,,Aucun format validé par SMTP,8,Très faible
+kabasanoh,cherif,kabasanoh.cherif@caliceo.com,,caliceo.com,caliceo-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Kabil,Djanaguiramane,kabil@voiturier-hotel.fr,,voiturier-hotel.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+kabita,deschandol,kabita.deschandol@nomadetsens.com,,nomadetsens.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Kader,BELAIBOUD,kader.belaiboud@hotelbalzac.com,,hotelbalzac.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+kader,chaa,kader@chaa-entreprise.fr,,chaa-entreprise.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+kader,chaa,kader@chaa-propriete.fr,,chaa-propriete.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+kaëlle,chevalier,kaelle.chevalier@naturedeaux.fr,,naturedeaux.fr,mx4.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+kaitlyne,vuillemin,kaitlyne.vuillemin@lesvagueshotel.com,,lesvagueshotel.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+kamel,amirat,kamel.amirat@leroch-hotel.com,,leroch-hotel.com,mx0.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Kamel,Chaouche,kamel.chaouche@allsuites.fr,,allsuites.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+kamila,miralles,kamila.miralles@la-begude-saint-pierre.com,,la-begude-saint-pierre.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Kango,Kaba,kango.kaba@ihg.com,,ihg.com,mxa-0036c501.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+karen,lagadec-cailleau,karen.lagadec@domainedebaulieu.com,,domainedebaulieu.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Karen,Voisin,karen.voisin@hyatt.com,,hyatt.com,mxb-00114c02.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+karim,benali,karim.benali@ultimateprovence.com,,ultimateprovence.com,vade-mx-fr01.hornetsecurity.com,Non,,Aucun format validé par SMTP,8,Très faible
+ELNEMR,karim,karim.elnemr@ihg.com,,ihg.com,mxa-0036c501.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Karim,NEVEUX,karim.neveux@zoodelafleche.fr,,zoodelafleche.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+karim,rabatel,karim.rabatel@lespresdeugenie.com,,lespresdeugenie.com,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,8,Très faible
+Karim,Rhazal,karim.rhazal@accor.com,,accor.com,accor.in.tmes.trendmicro.eu,Non,karim.rhazal@accor.com,Valide (SMTP 250),1,Élevé
+Karim,RHRAIDOU,karim.rhraidou@hotelbb.com,,hotelbb.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+karim,Sankhon,karim.sankhon@accor.com,,accor.com,accor.in.tmes.trendmicro.eu,Non,karim.sankhon@accor.com,Valide (SMTP 250),1,Élevé
+Karine,Angely,karine.angely@accor.com,,accor.com,accor.in.tmes.trendmicro.eu,Non,karine.angely@accor.com,Valide (SMTP 250),1,Élevé
+Karine,Berthelier,karine.berthelier@cdke.fr,,cdke.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+karine,bondon,karine.bondon@ospadessens38.fr,,ospadessens38.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Karine,Nguyen Huu,karine.nguyenhuu@accor.com,,accor.com,accor.in.tmes.trendmicro.eu,Non,knguyenhuu@accor.com,Valide (SMTP 250),4,Élevé
+karine,PARENT,karine.parent@ace-hotel.com,,ace-hotel.com,acehotel-com0i.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Karine,Picard,karine.picard@accor.com,,accor.com,accor.in.tmes.trendmicro.eu,Non,karine.picard@accor.com,Valide (SMTP 250),1,Élevé
+Karine,PRIN,karine.prin@campanile.fr,,campanile.fr,campanile-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Karine,Raynaud,karine.raynaud@disney.com,,disney.com,disney-com.mail.protection.outlook.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Karine,Sebban-Benzazon,karine.sebban@vatel.fr,,vatel.fr,vatel-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,9,Très faible
+karine,tamisier,karine.tamisier@accor.com,,accor.com,accor.in.tmes.trendmicro.eu,Non,,Aucun format validé par SMTP,8,Très faible
+Karine,Bonnard - Spa,karine@bonnard-spamanager.fr,,bonnard-spamanager.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Karine,Dubois-Lemercier,karine@iscle-de-prelles.com,,iscle-de-prelles.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Karine,Cuminal,karine@soindesoi.fr,,soindesoi.fr,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+karl,g.,karl.g@larobeyere.com,,larobeyere.com,larobeyere-com.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+karla,dalé,karla.dale@thermesmarins.com,,thermesmarins.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Karoll,Gurgui,karoll.gurgui@accor.com,,accor.com,accor.in.tmes.trendmicro.eu,Non,,Aucun format validé par SMTP,8,Très faible
+Kassilyne,Fabre,kassilyne.fabre@deepnature.fr,,deepnature.fr,mx0.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+Kat,Laden Kandaouroff,kat.laden@chateau-coudree.com,,chateau-coudree.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Kate,Walker,kate.walker@villalamartine.com,,villalamartine.com,mx1.mail.ovh.net,Non,,Aucun format validé par SMTP,8,Très faible
+kathleen,novis,kathleen.novis@lvrivieraspa.com,,lvrivieraspa.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+Katia,Chagneaud,katia.chagneaud@hotelbb.com,,hotelbb.com,aspmx.l.google.com,Non,,Aucun format validé par SMTP,8,Très faible
+katia,fleurier,katia.fleurier@sensetvital.fr,,sensetvital.fr,spool.mail.gandi.net,Non,,Aucun format validé par SMTP,8,Très faible
+Katia,Schaffhauser,katia.schaffhauser@directricespa.fr,,directricespa.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+katia,toubkis,katia.toubkis@radissonblu.com,,radissonblu.com,radissonhotels.in.tmes.trendmicro.eu,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+katarzyna,bane jablonska,kbane@diormail.com,,diormail.com,mxb-0024c501.gslb.pphosted.com,Non,,Aucun format validé par SMTP,9,Très faible
+karim,belaidi,kbelaidi@diormail.com,,diormail.com,mxb-0024c501.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Kelly,Beslin,kelly.beslin@chateauaudrieu.com,,chateauaudrieu.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+kelly,billard,kelly.billard@sensorial-bienetre.fr,,sensorial-bienetre.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
