@@ -1099,3 +1099,104 @@ l.lescaps@lescaps.fr,lescaps.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.
 d.yvroud@lesclesdemegeve.com,lesclesdemegeve.com,smtp.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
 m.etienne@cottagesdulac.fr,cottagesdulac.fr,,,Impossible (résolution MX échouée),Impossible (MX)
 j.sannac@hotel-leselmes.com,hotel-leselmes.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.saker@lesgageres.fr,lesgageres.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+a.froschauer@leshotelsbaverez.com,leshotelsbaverez.com,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+s.chesne@lesjardinsdufozo.fr,lesjardinsdufozo.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+p.dufaut@lesjardinsdumarais.com,lesjardinsdumarais.com,mx-01-eu-west-1.prod.hydra.sophos.com,Non,Incertain (Code 554 : 5.7.1 Service unavailable; Client host [64.236.177.10] is blacklisted. Visit https://www.sophos.com/en-us/support/ip-address-lookup/?ip=64.236.177.10 to request delisting),Incertain
+a.martin@leslodgesmartin.fr,leslodgesmartin.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+a.leroux@lesmaisonsdelapresquile.fr,lesmaisonsdelapresquile.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+f.lofficial@lesmaisonsmarcon.fr,lesmaisonsmarcon.fr,vade-mx-fr01.hornetsecurity.com,Non,Incertain (Code 554 : 5.5.4 Your IP address 64.236.177.10 has a bad reputation. To unblock visit https://cloud-security.net/unblock?blocked_ip=64.236.177.10&reason=6&qid=NOQUEUE),Incertain
+ym.guguen@lesmanoirsdetourgeville.com,lesmanoirsdetourgeville.com,,,Impossible (résolution MX échouée),Impossible (MX)
+j.houssaye@lesmanoirsdetourgeville.com,lesmanoirsdetourgeville.com,,,Impossible (résolution MX échouée),Impossible (MX)
+m.subirana@lesoudubienetre.fr,lesoudubienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+contact@lesoliviersderibeiro.fr,lesoliviersderibeiro.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+m.pais@lessourcesdaulps.com,lessourcesdaulps.com,,,Impossible (résolution MX échouée),Impossible (MX)
+n.edir@lessourcesdorient.fr,lessourcesdorient.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.cholvy@terrasses-eze.com,terrasses-eze.com,,,Impossible (résolution MX échouée),Impossible (MX)
+t.dubois@thermes-saujon.fr,thermes-saujon.fr,mx-mibc-fr-10.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+jm.colleu@thermesmarins.com,thermesmarins.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.bouchard@thermesmarinsmarseille.com,thermesmarinsmarseille.com,,,Impossible (résolution MX échouée),Impossible (MX)
+d.stagnoli@lesprita.fr,lesprita.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+d.delpierre@lestellan.fr,lestellan.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+p.genner@estellecamargue.com,estellecamargue.com,,,Impossible (résolution MX échouée),Impossible (MX)
+j.bjorkland@hoteldebeaune.com,hoteldebeaune.com,,,Impossible (résolution MX échouée),Impossible (MX)
+c.fouqueray@hotelparticulier12.com,hotelparticulier12.com,,,Impossible (résolution MX échouée),Impossible (MX)
+v.lehmann@hotelparticuliernancy.com,hotelparticuliernancy.com,,,Impossible (résolution MX échouée),Impossible (MX)
+https://linkedin.com/in/pierre-jean-germain/,,,,,Ignoré (format invalide)
+r.morisset@lignedeaucreation.fr,lignedeaucreation.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+v.nopre@ligneetbienetre.fr,ligneetbienetre.fr,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+r.mendjiwa@linstantbienetremendjiwa.fr,linstantbienetremendjiwa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+b.bartolozzi@linstantcryo.fr,linstantcryo.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.p@linstantm.fr,linstantm.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+jc.berndt@lnsluxomed.fr,lnsluxomed.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+yves.thibaud@lesetincelles.com,lesetincelles.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+geoffrey.lapierre@lda.fr,lda.fr,lda-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+r.droit@louvehotels.com,louvehotels.com,,,Impossible (résolution MX échouée),Impossible (MX)
+g.olivier@lovcollection.com,lovcollection.com,,,Impossible (résolution MX échouée),Impossible (MX)
+l.prugnaud@lpbienetre.fr,lpbienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+a.gabert@luxomed.com,luxomed.com,mail.luxomed.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+m.tomaszewski@luxuryonecollection.com,luxuryonecollection.com,mx1.hostinger.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+claudine.bosco@sa-lamotte.fr,sa-lamotte.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+pe.schulmann@lyonvert.fr,lyonvert.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+c.couraleau@mamaisonbienetre.fr,mamaisonbienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+n.lemeur@mapauseenville.fr,mapauseenville.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+t.machefert@machefert.com,machefert.com,machefert-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+m.maki@madoromi.fr,madoromi.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+e.gobin@mainsdumonde.com,mainsdumonde.com,,,Impossible (résolution MX échouée),Impossible (MX)
+akim.wahib@boiscolombes.fr,boiscolombes.fr,mailhost.boiscolombes.fr,Non,Erreur réseau : [Errno -2] Name or service not known,Erreur (voir Resultat_SMTP)
+florian.macias@cauterets.fr,cauterets.fr,mx00.1and1.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+franck.vincent@chateauroux.fr,chateauroux.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+genevieve.robrolle@chateauroux.fr,chateauroux.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+genevieve.moreau@chateauroux.fr,chateauroux.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+jacques.soeiro@chateauroux.fr,chateauroux.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+benjamin.warot@courbevoie.fr,courbevoie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+francois.vidal@courbevoie.fr,courbevoie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+karim.afkir@courbevoie.fr,courbevoie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+mustapha.amzil@courbevoie.fr,courbevoie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+patrick.neri@courbevoie.fr,courbevoie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+stephane.giardina@gagny.fr,gagny.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+magali.seveque@nangis.fr,nangis.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+marta.sanchez@saint-lys.fr,saint-lys.fr,mx-01-eu-central-1.prod.hydra.sophos.com,Non,Incertain (Code 554 : 5.7.1 Service unavailable; Client host [64.236.177.10] is blacklisted. Visit https://www.sophos.com/en-us/support/ip-address-lookup/?ip=64.236.177.10 to request delisting),Incertain
+corinne.tutundjian@saint-nazaire.fr,saint-nazaire.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+christian.frey@saint-ave.fr,saint-ave.fr,vade-mx-fr02.hornetsecurity.com,Non,Incertain (Code 554 : 5.5.4 Your IP address 64.236.177.10 has a bad reputation. To unblock visit https://cloud-security.net/unblock?blocked_ip=64.236.177.10&reason=6&qid=NOQUEUE),Incertain
+melanie.laperrousaz@saint-felix.fr,saint-felix.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+aurelie.lebihan@saintjeandebraye.fr,saintjeandebraye.fr,mail.ville-saintjeandebraye.fr,Non,Erreur réseau : [Errno -2] Name or service not known,Erreur (voir Resultat_SMTP)
+richard.delimesle@saintjeandebraye.fr,saintjeandebraye.fr,mail.ville-saintjeandebraye.fr,Non,Erreur réseau : [Errno -2] Name or service not known,Erreur (voir Resultat_SMTP)
+serge.ragu@saintjeandebraye.fr,saintjeandebraye.fr,mail.ville-saintjeandebraye.fr,Non,Erreur réseau : [Errno -2] Name or service not known,Erreur (voir Resultat_SMTP)
+antoine.vercruysse@ville-saint-omer.fr,ville-saint-omer.fr,mx-01-eu-central-1.prod.hydra.sophos.com,Non,Incertain (Code 554 : 5.7.1 Service unavailable; Client host [64.236.177.10] is blacklisted. Visit https://www.sophos.com/en-us/support/ip-address-lookup/?ip=64.236.177.10 to request delisting),Incertain
+julie.lefebvre@nangis.fr,nangis.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+frederic.juanola@saint-nazaire.fr,saint-nazaire.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+jj.danilo@maisonalbar.com,maisonalbar.com,maisonalbar-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+dimitri.daponte@hotelsbarriere.com,hotelsbarriere.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [64.236.177.10] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/64.236.177.10)",Incertain
+olivier.fernandez@hotelsbarriere.com,hotelsbarriere.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [64.236.177.10] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/64.236.177.10)",Incertain
+siah.care@lamaisondubienetre.fr,lamaisondubienetre.fr,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+contact@mbi-insertion.fr,mbi-insertion.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.ratto@maison-saisonniers.fr,maison-saisonniers.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.zinant@maison-tournier.com,maison-tournier.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [64.236.177.10])",Incertain
+gregory.stassievitch@maisonsetcites.fr,maisonsetcites.fr,maisonsetcites-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+g.bertaud@maisonspariente.com,maisonspariente.com,maisonspariente-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+virginie.rossi@hotelsbarriere.com,hotelsbarriere.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [64.236.177.10] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/64.236.177.10)",Incertain
+julien.lefebvre@mamashelter.com,mamashelter.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <julien.lefebvre@mamashelter.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+florence.apy@mohg.com,mohg.com,eu-smtp-inbound-2.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+n.lag@manitia.fr,manitia.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+ce.hoffmann@manoirdeschevaliers.fr,manoirdeschevaliers.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+w.boelen@manoir-impressionnistes.com,manoir-impressionnistes.com,,,Impossible (résolution MX échouée),Impossible (MX)
+p.lhopital@manoirleroure.com,manoirleroure.com,manoirleroure-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+n.mignon@manuteva-massages.fr,manuteva-massages.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+n.gosselin@mareebasse-letouquet.fr,mareebasse-letouquet.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+gretchen.beyer@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+billy.colbert@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+brantley.everly@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+chale.lawless@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+gage.hanks@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+inez.edge@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+kira.musser@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+ophelia.edward@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+lucien.pierson@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+vicky.turpin@marriott.com,marriott.com,marriott-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+p.velthuizen@marvillaparks.com,marvillaparks.com,,,Impossible (résolution MX échouée),Impossible (MX)
+p.palau@marvillaparks.com,marvillaparks.com,,,Impossible (résolution MX échouée),Impossible (MX)
+m.guillou@marycohr-rambouillet.fr,marycohr-rambouillet.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+j.fournier@jessicafournier-massages.fr,jessicafournier-massages.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+j.metras@massatho-bienetre.fr,massatho-bienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+jj.thibault@tarbouriech.fr,tarbouriech.fr,ASPMX.L.GOOGLE.COM,Non,Inexistant (SMTP 550),Inexistant
