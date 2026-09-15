@@ -1400,3 +1400,103 @@ s.wild@leprieuredessources.com,leprieuredessources.com,alderaan.kyxar.fr,Non,Inc
 s.gorchon@lesbordsdemer.com,lesbordsdemer.com,lesbordsdemer-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
 s.mohamdi@spalyon.fr,spalyon.fr,_dc-mx.7993d30931bc.spalyon.fr,Non,Inexistant (SMTP 550),Inexistant
 m.mordel@spaniwaki.fr,spaniwaki.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+sylvie.goncalves@lagrandeterrasse.com,lagrandeterrasse.com,,,Impossible (résolution MX échouée),Impossible (MX)
+z.pernuit@lacolline-lyons.com,lacolline-lyons.com,,,Impossible (résolution MX échouée),Impossible (MX)
+s.tanfin@nuxe.com,nuxe.com,nuxe-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+n.marquet@spareveetsens.fr,spareveetsens.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+m.puchaux@sparevitalise.fr,sparevitalise.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+sandrine.lagarde@raffles.com,raffles.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <sandrine.lagarde@raffles.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+r.morin@spas.fr,spas.fr,localhost,Non,Connexion refusée (port 25 fermé côté serveur cible ou bloqué par votre réseau),Erreur (voir Resultat_SMTP)
+s.bonnetramus@spasdesign.fr,spasdesign.fr,mx00.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+h.farfal@peyragudes.com,peyragudes.com,ASPMX.L.GOOGLE.com,Non,Valide (SMTP 250),Valide
+a.laguerre@thermes-cauterets.com,thermes-cauterets.com,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.150.28.33])",Incertain
+f.leguennec@sportwellness.fr,sportwellness.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+contact@spotbienetre.fr,spotbienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+p.irace@stbarthswine.com,stbarthswine.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+s.dalmayrac@starwellness.com,starwellness.com,starwellness-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+v.dalmayrac@starwellness.com,starwellness.com,starwellness-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+elorri.sudeix@staycity.com,staycity.com,de-smtp-inbound-2.mimecast.com,Non,Inexistant (SMTP 550),Inexistant
+f.jeandet@storvatt.com,storvatt.com,storvatt-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+n.picq@studionaia.fr,studionaia.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+c.folberth@studiopilates44.fr,studiopilates44.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+t.chave@sudeastpiscines.fr,sudeastpiscines.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+w.jamet@bordsdelardeche.fr,bordsdelardeche.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+n.patel@bestwestern.fr,bestwestern.fr,bestwestern-mx1.titanhq.com,Non,Inexistant (SMTP 550),Inexistant
+l.lauture@bestwestern.fr,bestwestern.fr,bestwestern-mx1.titanhq.com,Non,Inexistant (SMTP 550),Inexistant
+s.poirier@surfclubhotelbiarritz.com,surfclubhotelbiarritz.com,,,Impossible (résolution MX échouée),Impossible (MX)
+e.chalmain@sytom-chateauroux.fr,sytom-chateauroux.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+a.lemoine@artdubienetre.fr,artdubienetre.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.150.28.33])",Incertain
+c.tinchant@taxibarriere.fr,taxibarriere.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+t.cardonagil@tcjasaintmalo.fr,tcjasaintmalo.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+stephanie.arrive@terre-blanche.com,terre-blanche.com,terre--blanche-com-1.fortimailcloud.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+m.truquet@terredejade.fr,terredejade.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+c.ponsgermain@terredepastel.com,terredepastel.com,mail.terredepastel.com,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.150.28.33] blocked using zen.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.150.28.33)",Incertain
+t.uzan@tez-tour.com,tez-tour.com,mxm.tez-tour.com,Non,Inexistant (SMTP 550),Inexistant
+m.george@thaibienetre.fr,thaibienetre.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.150.28.33])",Incertain
+contact@thaiwellnesslounge.fr,thaiwellnesslounge.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+jj.attias@thalacap.fr,thalacap.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.150.28.33])",Incertain
+s.duguey@thalacap.fr,thalacap.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.150.28.33])",Incertain
+p.gomez@thalacoach.fr,thalacoach.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+p.caignec@thalassamor.fr,thalassamor.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.ribera@lescorallines.com,lescorallines.com,,,Impossible (résolution MX échouée),Impossible (MX)
+y.jaulinbalza@thalassospamarin.com,thalassospamarin.com,,,Impossible (résolution MX échouée),Impossible (MX)
+yves.diard@thalasso.com,thalasso.com,thalasso-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alain.rospars@valdys.fr,valdys.fr,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.150.28.33] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.150.28.33)",Incertain
+gregory.lavoir@thalazur.fr,thalazur.fr,mx1.coaxis.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+c.rivalin@thalazur.fr,thalazur.fr,mx1.coaxis.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+p.bellenge@thalazur.fr,thalazur.fr,mx1.coaxis.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+g.houdet@happyculture.com,happyculture.com,happyculture-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+f.nobili@theoriginalshotels.com,theoriginalshotels.com,theoriginalshotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+jl.berot@thermes-berot.com,thermes-berot.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.150.28.33])",Incertain
+e.chavane@chainethermale.fr,chainethermale.fr,mail-relay01-inetum.chainethermale.fr,Non,Inexistant (SMTP 550),Inexistant
+mc.albini@totemfriendlyhotel.com,totemfriendlyhotel.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.150.28.33] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.150.28.33)",Incertain
+remy.papoz@hotelsbarriere.com,hotelsbarriere.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.150.28.33] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.150.28.33)",Incertain
+y.barriere@transports-barriere.fr,transports-barriere.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+f.bahrampouri@tropichotel.com,tropichotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+p.giorgi@ucampanile.com,ucampanile.com,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.150.28.33] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.150.28.33)",Incertain
+l.duc@umih.fr,umih.fr,umih-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+f.boudin@usconcarneau.com,usconcarneau.com,,,Impossible (résolution MX échouée),Impossible (MX)
+n.causan@ubudhotelspa.com,ubudhotelspa.com,,,Impossible (résolution MX échouée),Impossible (MX)
+r.levy@umih.fr,umih.fr,umih-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+h.becam@umih.fr,umih.fr,umih-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+p.belot@umih.fr,umih.fr,umih-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+r.florin@umih.fr,umih.fr,umih-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.lahouti@umih06.fr,umih06.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.150.28.33])",Incertain
+p.lemarie@umih35.fr,umih35.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+j.luce@umih61.fr,umih61.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+n.lamotte@umih76.fr,umih76.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+p.mounier@umih84.fr,umih84.fr,umih84-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+j.giraudeau@umih85.fr,umih85.fr,mx02.cloud.vadesecure.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+p.lecacheux@umih17.fr,umih17.fr,SMTP.GOOGLE.COM,Non,Inexistant (SMTP 550),Inexistant
+i.ouanna@umih44.fr,umih44.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+e.dubois@umih59.fr,umih59.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+h.clautour@umih44.fr,umih44.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+jl.bousquet@umih24.fr,umih24.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.150.28.33])",Incertain
+x.roque@umih32.fr,umih32.fr,umih32-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.bretelle@umih40.fr,umih40.fr,umih40.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+a.guillout@umih87.fr,umih87.fr,umih87-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+b.bongioanni@unmomentpoursoi.fr,unmomentpoursoi.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+c.coolens@unmomentpoursoi.fr,unmomentpoursoi.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+p.lantier@unmomentpoursoi.fr,unmomentpoursoi.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+v.fourage@unmomentpoursoi.fr,unmomentpoursoi.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+e.stojanovic@untempspoursoi.fr,untempspoursoi.fr,mx186.m2bp.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+p.deleflie@untempspoursoi.fr,untempspoursoi.fr,mx186.m2bp.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+h.mahe@untempspoursoi.fr,untempspoursoi.fr,mx186.m2bp.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+e.fauvet@untempspoursoi45380.fr,untempspoursoi45380.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+d.henry@unebulledebienetre.fr,unebulledebienetre.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.150.28.33])",Incertain
+a.guerin@ussim.fr,ussim.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [52.150.28.33])",Incertain
+f.laparade@uxco.com,uxco.com,uxco-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+m.routaboul@vacanceole.com,vacanceole.com,vacanceole-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+d.andreani@vacanceole.com,vacanceole.com,vacanceole-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+jc.chacon@popinns.com,popinns.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+m.mulero@vaiteaspa.fr,vaiteaspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+gnanavelan.gnanavelan@valdys.fr,valdys.fr,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.150.28.33] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.150.28.33)",Incertain
+velan.gnanavelan@valdys.fr,valdys.fr,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.150.28.33] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.150.28.33)",Incertain
+v.puxeddu@valerie-bienetre.fr,valerie-bienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+j.jouanno@valleedepratmeur.com,valleedepratmeur.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+j.vankeerbergen@valotel.com,valotel.com,valotel-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+v.guedj@vdgconsulting.fr,vdgconsulting.fr,spool.mail.gandi.net,Non,"Incertain (Code 554 : 5.7.1 Service unavailable; Client host [52.150.28.33] blocked using sbl-xbl.spamhaus.org; Listed by CSS, see https://check.spamhaus.org/query/ip/52.150.28.33)",Incertain
+m.hittinger@hotelventdouest.fr,hotelventdouest.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+j.bernard@vercorspiscine.fr,vercorspiscine.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+jp.gleizes@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+j.vivier@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
