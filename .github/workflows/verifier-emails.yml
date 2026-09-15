@@ -1,0 +1,68 @@
+name: Vérification SMTP des emails
+
+on:
+  workflow_dispatch:      # lancement manuel depuis l'onglet "Actions"
+
+jobs:
+  verifier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90        # un lot de 100 avec pause de 1s/email prend ~10-15 min mini
+    permissions:
+      contents: write          # nécessaire pour re-commit liste_mail.csv / mails_verifies.csv
+      actions: write           # nécessaire pour déclencher le prochain lot (workflow_dispatch)
+
+    steps:
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dépendances
+        run: pip install dnspython
+
+      - name: Lancer la vérification SMTP (lot de 100 emails max)
+        id: verification
+        env:
+          MAX_EMAILS_PAR_RUN: "100"
+        run: |
+          # Le script sort avec le code 2 s'il reste des emails à vérifier, 0 si
+          # tout est terminé. On capture ce code sans faire échouer le job.
+          set +e
+          python verifier_emails_smtp.py
+          echo "code_sortie=$?" >> "$GITHUB_OUTPUT"
+          set -e
+
+      - name: Uploader le CSV des résultats comme artefact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mails_verifies-${{ github.run_number }}
+          path: mails_verifies.csv
+
+      - name: Committer et pousser les fichiers mis à jour
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add liste_mail.csv mails_verifies.csv
+          git diff --staged --quiet || git commit -m "Vérification SMTP - lot de 100 (run #${{ github.run_number }})"
+          git push
+
+      - name: Attendre un peu avant le lot suivant (limiter le débit)
+        if: steps.verification.outputs.code_sortie == '2'
+        run: sleep 30
+
+      - name: Déclencher le lot suivant s'il reste des emails à vérifier
+        if: steps.verification.outputs.code_sortie == '2'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "Il reste des emails à vérifier - déclenchement du prochain lot..."
+          gh workflow run "${{ github.workflow }}" --repo "${{ github.repository }}"
+
+      - name: Tout est terminé
+        if: steps.verification.outputs.code_sortie == '0'
+        run: echo "✅ Tous les emails ont été vérifiés, aucun lot supplémentaire nécessaire."
