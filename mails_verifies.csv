@@ -999,3 +999,103 @@ aimed.chamakhi@ihg.com,ihg.com,mxb-0036c501.gslb.pphosted.com,Non,Expéditeur re
 p.braun@irrijardin.fr,irrijardin.fr,irrijardin-fr.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
 m.trilhe@irrijardin.fr,irrijardin.fr,irrijardin-fr.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
 m.pasquier@irrijardin.fr,irrijardin.fr,irrijardin-fr.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+p.laborde@irripiscine.fr,irripiscine.fr,irripiscine-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+o.roy@irripiscine.fr,irripiscine.fr,irripiscine-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+m.foret@irripiscine.fr,irripiscine.fr,irripiscine-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+m.smadja@irripiscine.fr,irripiscine.fr,irripiscine-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+c.sonnet@irripiscine.fr,irripiscine.fr,irripiscine-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+e.donzeau@irripiscine.fr,irripiscine.fr,irripiscine-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+jf.monti@jfmconcept.fr,jfmconcept.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+e.dulac@hoteljuana.com,hoteljuana.com,,,Impossible (résolution MX échouée),Impossible (MX)
+e.rigby@kalonmovement.com,kalonmovement.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+n.debayles@kapcare.com,kapcare.com,,,Impossible (résolution MX échouée),Impossible (MX)
+e.tasserie@komestudio.fr,komestudio.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+thierry.moreau@kyriad.com,kyriad.com,kyriad-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+g.pochelu@kyriad.com,kyriad.com,kyriad-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+lannion@kyriad.com,kyriad.com,kyriad-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+matthias.lefebvre@kyriad.com,kyriad.com,kyriad-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+nuitssaintgeorges@kyriad.com,kyriad.com,kyriad-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+franck.gascoin@kyriad.com,kyriad.com,kyriad-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+j.goudeseune@lairdubienetre.fr,lairdubienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+n.vinciguerra@linstantbienetre.fr,linstantbienetre.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+n.zundel@lequilibre.fr,lequilibre.fr,mail.lequilibre.fr,Non,Incertain (Code 450 : 4.7.1 <verification-bot.com>: Helo command rejected: Host not found),Incertain
+s.esnault@lartducomposite.fr,lartducomposite.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+o.allart@latelierdoceane.fr,latelierdoceane.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+m.zirar@lateliermya.fr,lateliermya.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+a.bruniaux@leclosdesvignes.fr,leclosdesvignes.fr,leclosdesvignes-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+j.briant@baiedesanges.com,baiedesanges.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+d.chaperon@labaignoire.fr,labaignoire.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+delphine.charron@hotelsbarriere.com,hotelsbarriere.com,spool.mail.gandi.net,Non,Inexistant (SMTP 550),Inexistant
+marc.dolso@lba.fr,lba.fr,lba-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+v.artis@labastide.fr,labastide.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+j.bulland@bastidelourmarin.com,bastidelourmarin.com,,,Impossible (résolution MX échouée),Impossible (MX)
+contact@bastide-saint-tropez.com,bastide-saint-tropez.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+b.gelly@baumaniere.com,baumaniere.com,mx-mibc-fr-05.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+p.dumont@la-clairiere.com,la-clairiere.com,vade-mx-fr01.hornetsecurity.com,Non,Inexistant (SMTP 550),Inexistant
+g.petitgats@la-clairiere.com,la-clairiere.com,vade-mx-fr01.hornetsecurity.com,Non,Inexistant (SMTP 550),Inexistant
+j.provencio@la-clairiere.com,la-clairiere.com,vade-mx-fr01.hornetsecurity.com,Non,Inexistant (SMTP 550),Inexistant
+n.bourinet@lacolombiere.com,lacolombiere.com,,,Impossible (résolution MX échouée),Impossible (MX)
+c.sarazin@fermedubienaller.fr,fermedubienaller.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+p.boelen@collection-saint-simeon.com,collection-saint-simeon.com,,,Impossible (résolution MX échouée),Impossible (MX)
+thierry.vilaysack@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Incertain (Code 554 : 5.7.1 <thierry.vilaysack@accor.com>: Recipient address rejected: Invalid-Recipient.),Incertain
+direction@lalunedemougins.fr,lalunedemougins.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.lyonnet@lamaisondubienetre.fr,lamaisondubienetre.fr,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+n.vincent@lamaisondubienetre.fr,lamaisondubienetre.fr,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+l.saenz@lamaisonduvillage.com,lamaisonduvillage.com,,,Impossible (résolution MX échouée),Impossible (MX)
+o.mougenot@maison-rouge.com,maison-rouge.com,maisonrouge-com01e.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+jc.budar@lamarmiteauxoiseaux.fr,lamarmiteauxoiseaux.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+g.lago@lamontgolfiere.paris,lamontgolfiere.paris,,,Impossible (résolution MX échouée),Impossible (MX)
+m.marliere@lamusealoreille.fr,lamusealoreille.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+c.allouch@laparenthese-bienetre.fr,laparenthese-bienetre.fr,mx3.mailpod16-cph3.g1i.one.com,Non,Inexistant (SMTP 550),Inexistant
+r.benamara@reservebeaulieu.com,reservebeaulieu.com,reservebeaulieu-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+c.havegeer@lavillabarbieux.fr,lavillabarbieux.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.combes@lavillaspa.fr,lavillaspa.fr,mta-gw.infomaniak.ch,Non,Inexistant (SMTP 550),Inexistant
+c.pastor@lavillaviicha.fr,lavillaviicha.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+n.gaillard@larbreauxenvies.fr,larbreauxenvies.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+m.racionero@latelierdubienvoir.fr,latelierdubienvoir.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.fery@aubergedenicey.com,aubergedenicey.com,,,Impossible (résolution MX échouée),Impossible (MX)
+v.brunie@aubergedumole.fr,aubergedumole.fr,route1.mx.cloudflare.net,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+t.antoine@lavorelhotels.com,lavorelhotels.com,lavorelhotels-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+j.vidau@lebistrotduchai.fr,lebistrotduchai.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.reutenauer@lebouclierdor.com,lebouclierdor.com,lebouclierdor-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+g.floriani@leboudoirdepicure.fr,leboudoirdepicure.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+raphael.courant@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+fabrice.moizan@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+d.neal@brittanypub.fr,brittanypub.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+f.dannenmayer@lecarredupalais.fr,lecarredupalais.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+y.gaudin@casino-cauterets.fr,casino-cauterets.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+m.schumann@centredermocosmetique.fr,centredermocosmetique.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.buron@lechabichou.com,lechabichou.com,lechabichou-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+s.cavalli@lechalethotel.com,lechalethotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+patrice.arnaud@oetkercollection.com,oetkercollection.com,oetkercollection-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+c.romiguiere@lecocoon.fr,lecocoon.fr,mx186.mb1p.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+contact@lecocoonclub.fr,lecocoonclub.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.vergne@lecocoonspa.fr,lecocoonspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+jc.bise@lecottage.fr,lecottage.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+f.leblevec@lefregateprovence.com,lefregateprovence.com,lefregateprovence-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.boujaer@legenerale.fr,legenerale.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+philippe.pilato@golfnational.com,golfnational.com,,,Impossible (résolution MX échouée),Impossible (MX)
+gaelle.grelat@accor.com,accor.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+s.catiau@legrandhotel-letouquet.com,legrandhotel-letouquet.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+j.froger@lek2palace.com,lek2palace.com,asp16.mailinblack.com,Non,Inexistant (SMTP 550),Inexistant
+j.dagron@lelocal.fr,lelocal.fr,lelocal-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+b.boelen@manoir-impressionnistes.com,manoir-impressionnistes.com,,,Impossible (résolution MX échouée),Impossible (MX)
+m.delimal@lemirage.fr,lemirage.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+n.nanot@lepatiodeluchon.fr,lepatiodeluchon.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+x.mathieu@lephebus.com,lephebus.com,lephebus-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+s.saura@lerefugedubienetre.fr,lerefugedubienetre.fr,mail.lerefugedubienetre.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+a.chaykhi@leroyal-hotel.com,leroyal-hotel.com,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+s.boutin@lesaintpaulhotel.com,lesaintpaulhotel.com,,,Impossible (résolution MX échouée),Impossible (MX)
+burhan@lethaiwellness.fr,lethaiwellness.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+b.asnar@letropquai.fr,letropquai.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+a.hirtz@levalrose.com,levalrose.com,,,Impossible (résolution MX échouée),Impossible (MX)
+h.benslimane@lembouchure.fr,lembouchure.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+c.buttoudin@lepicuriedesalpes.fr,lepicuriedesalpes.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+s.rodrigues@les5oceans.fr,les5oceans.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+me.amielh@lesateliersdubienetre.fr,lesateliersdubienetre.fr,lesateliersdubienetre-fr.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+s.decourcelles@lesbalneades.fr,lesbalneades.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+c.occhipinti@lesbeautesdecha.fr,lesbeautesdecha.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.lescaps@lescaps.fr,lescaps.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.183.132.69])",Incertain
+d.yvroud@lesclesdemegeve.com,lesclesdemegeve.com,smtp.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+m.etienne@cottagesdulac.fr,cottagesdulac.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+j.sannac@hotel-leselmes.com,hotel-leselmes.com,,,Impossible (résolution MX échouée),Impossible (MX)
