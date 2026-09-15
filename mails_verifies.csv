@@ -1500,3 +1500,50 @@ m.hittinger@hotelventdouest.fr,hotelventdouest.fr,,,Impossible (résolution MX �
 j.bernard@vercorspiscine.fr,vercorspiscine.fr,,,Impossible (résolution MX échouée),Impossible (MX)
 jp.gleizes@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
 j.vivier@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+o.caen@vert-marine.com,vert-marine.com,vertmarine-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+jm.pusset@vignoble-millesime.fr,vignoble-millesime.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+o.jauze@villachenaie.fr,villachenaie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.mounet@villagallici.com,villagallici.com,villagallici-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+n.marcus@villaveneziaspa.fr,villaveneziaspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+f.tapias@villas-mandarine.com,villas-mandarine.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [132.196.94.189])",Incertain
+jl.bernard@villavie.fr,villavie.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [132.196.94.189])",Incertain
+helene.mathevon@balaruc-les-bains.fr,balaruc-les-bains.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [132.196.94.189])",Incertain
+stephane.jugault@colombes.fr,colombes.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+jean-claude.hanol@courbevoie.fr,courbevoie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+laurent.gorza@courbevoie.fr,courbevoie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+yannick.olivier@courbevoie.fr,courbevoie.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+franck.bazin@courseulles-sur-mer.fr,courseulles-sur-mer.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+alexandre.suteau@ville-granville.fr,ville-granville.fr,vade-mx-fr01.hornetsecurity.com,Non,Valide (SMTP 250),Valide
+farid.kechidi@nangis.fr,nangis.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+philippe.riffet@ville-saintjeandelaruvelle.fr,ville-saintjeandelaruvelle.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+bernard.guinard@saint-malo.fr,saint-malo.fr,saintmalo-fr01c.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+alain.chesnel@saint-nazaire.fr,saint-nazaire.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [132.196.94.189])",Incertain
+ludovic.legoff@saint-nazaire.fr,saint-nazaire.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [132.196.94.189])",Incertain
+gilles.albaret@saint-flour.fr,saint-flour.fr,saintflour-fr01c.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+guillaume.saupin@saint-nazaire.fr,saint-nazaire.fr,mx5.dataxy.fr,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [132.196.94.189])",Incertain
+pierre-alban.dessuges@saintnicolasdeport.fr,saintnicolasdeport.fr,saintnicolasdeport-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+contact@saint-nicolas-de-redon.fr,saint-nicolas-de-redon.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+marcel.poire@saint-malo.fr,saint-malo.fr,saintmalo-fr01c.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+s.courseaux@vitalspa.fr,vitalspa.fr,vitalspa-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.berger@vosdestinationsnature.fr,vosdestinationsnature.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [132.196.94.189])",Incertain
+n.carapinha@wefit-group.fr,wefit-group.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+y.lardic@wellnessspa.fr,wellnessspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+c.agati@wellnessspirit.fr,wellnessspirit.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+v.cordier@wellness-sportclub.fr,wellness-sportclub.fr,filter11125.zerospam.ca,Non,Incertain (Code 554 : 5.7.1 <v.cordier@wellness-sportclub.fr>: Relay access denied),Incertain
+a.chevalme@wellness-sportclub.fr,wellness-sportclub.fr,filter11125.zerospam.ca,Non,Incertain (Code 554 : 5.7.1 <a.chevalme@wellness-sportclub.fr>: Relay access denied),Incertain
+v.viguie@wellnesstechnology.fr,wellnesstechnology.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+a.falgarone@yellohvillage.com,yellohvillage.com,yellohvillage-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+t.furne@yogavilla.fr,yogavilla.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [132.196.94.189])",Incertain
+m.ferhati@yogami.fr,yogami.fr,mail.yogami.fr,Non,"Expéditeur rejeté par le serveur (code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [132.196.94.189]) - vérification impossible",Erreur (voir Resultat_SMTP)
+k.chasles@yrnet.com,yrnet.com,mxb-0021d901.gslb.pphosted.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+d.desmaret@boutique.yves-rocher.fr,boutique.yves-rocher.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.hossein@boutique.yves-rocher.fr,boutique.yves-rocher.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+v.lecoufle@boutique.yves-rocher.fr,boutique.yves-rocher.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+a.alcouffe@boutique.yves-rocher.fr,boutique.yves-rocher.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+m.thome@sarl-elvyr.fr,sarl-elvyr.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+j.devaud@zannier.com,zannier.com,zannier-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+l.labat@zenitubienetre.fr,zenitubienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+j.dufourmont@zenitude-groupe.com,zenitude-groupe.com,protect.oci.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+pa.vidalenc@zenitude-groupe.com,zenitude-groupe.com,protect.oci.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+m.boungo@zenitude-senior.com,zenitude-senior.com,,,Impossible (résolution MX échouée),Impossible (MX)
+r.delord@zoobeauval.com,zoobeauval.com,zoobeauval-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
