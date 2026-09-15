@@ -699,3 +699,103 @@ r.souffleux@clr-hotels.com,clr-hotels.com,,,Impossible (résolution MX échouée
 contact@clubbienetre.fr,clubbienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
 d.moukbel@cocooningbeauty.fr,cocooningbeauty.fr,,,Impossible (résolution MX échouée),Impossible (MX)
 r.linhard@cocooningspa.fr,cocooningspa.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [172.214.47.52])",Incertain
+e.cocoon@cocoon.fr,cocoon.fr,mail3.netdmx.com,Non,Inexistant (SMTP 550),Inexistant
+s.becle@cocoonspa.fr,cocoonspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+o.renouf@yeuse.fr,yeuse.fr,mx.turbino.com,Non,Inexistant (SMTP 550),Inexistant
+m.engrand@conceptboissons.fr,conceptboissons.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+annie.couasnard@concorde-hotels.com,concorde-hotels.com,,,Impossible (résolution MX échouée),Impossible (MX)
+d.alby@conseil-albigeois.fr,conseil-albigeois.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+fabien.besseyre@puy-de-dome.fr,puy-de-dome.fr,mx02.cloud.vadesecure.com,Non,Valide (SMTP 250),Valide
+leaastrid.martin@costa.it,costa.it,costa-it.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+m.ollivault@cotonetsoi.fr,cotonetsoi.fr,cotonetsoi.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+p.langlet@coupsdevents.fr,coupsdevents.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.perris@couventdelasalette.com,couventdelasalette.com,,,Impossible (résolution MX échouée),Impossible (MX)
+o.matutane@creationpiscines.fr,creationpiscines.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+p.deneuvier@cryolyon.com,cryolyon.com,,,Impossible (résolution MX échouée),Impossible (MX)
+n.bouzid@cryominceur-alger.com,cryominceur-alger.com,,,Impossible (résolution MX échouée),Impossible (MX)
+a.laloux@cryotera.fr,cryotera.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+c.legrand@cryotera.fr,cryotera.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+s.chastagner@cryotera.fr,cryotera.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+j.salord@daillonetdailleurs.fr,daillonetdailleurs.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+dansmabulle@gmail.com,gmail.com,gmail-smtp-in.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+v.coeneparent@piscineetspas.fr,piscineetspas.fr,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+s.panek@deepnature.fr,deepnature.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+j.lebouder@deepnature.fr,deepnature.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+v.abreu@deepnature.fr,deepnature.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+l.frisonroche@deepnature.fr,deepnature.fr,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+m.poussin@dermeline.fr,dermeline.fr,mx01.ionos.fr,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+desmainsdange@gmail.com,gmail.com,gmail-smtp-in.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+contact@destinationbienetre.fr,destinationbienetre.fr,SMTP.GOOGLE.COM,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+f.schneider@destinationbienetre.fr,destinationbienetre.fr,SMTP.GOOGLE.COM,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+arnaud@dihan.fr,dihan.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+olivier.dusautoir@disneylandparis.com,disneylandparis.com,generalsmtp.disney.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+isabelle.parmentier@disneylandparis.com,disneylandparis.com,generalsmtp.disney.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+david.delvecchio@disneylandparis.com,disneylandparis.com,generalsmtp.disney.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+f.dehasque@domaine-bellevue.fr,domaine-bellevue.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+contact@domainechateaudubienetre.fr,domainechateaudubienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+b.paniez@domainedebarive.com,domainedebarive.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+c.durand@domaine-bellevue.fr,domaine-bellevue.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+marc.delahaye@domainestatut.com,domainestatut.com,,,Impossible (résolution MX échouée),Impossible (MX)
+z.ansari@epikur.com,epikur.com,aspmx.l.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+l.fel@dragonniere.com,dragonniere.com,spool.mail.gandi.net,Non,Inexistant (SMTP 550),Inexistant
+s.affortit@domainedelaprivadiere.com,domainedelaprivadiere.com,,,Impossible (résolution MX échouée),Impossible (MX)
+tata.vivy@rivabella-spa.com,rivabella-spa.com,mail.rivabella-spa.com,Non,Le serveur a coupé la connexion (blocage anti-spam probable côté entreprise),Erreur (voir Resultat_SMTP)
+a.delachesnais@lesormes.com,lesormes.com,lesormes-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.masson@hautjardin.com,hautjardin.com,mx0.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+a.mailly@moulindelachaud.com,moulindelachaud.com,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+c.clementi@moulinlaplace.fr,moulinlaplace.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+d.delmas@delmas-sa.fr,delmas-sa.fr,spool.mail.gandi.net,Non,Inexistant (SMTP 550),Inexistant
+e.thomas@douceuretbienetre.fr,douceuretbienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+a.abiven@lieudespossibles.fr,lieudespossibles.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+f.moraga@temanametals.cl,temanametals.cl,,,Impossible (résolution MX échouée),Impossible (MX)
+s.e@eauzoneholding.com,eauzoneholding.com,,,Impossible (résolution MX échouée),Impossible (MX)
+m.piau@eclatdedouceheure.fr,eclatdedouceheure.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+s.chesnel@ecodomainebellevue.fr,ecodomainebellevue.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+t.bessiere@lagreedeslandes.com,lagreedeslandes.com,mxa-0021d901.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+n.krasavtseva@eips-protocol.com,eips-protocol.com,,,Impossible (résolution MX échouée),Impossible (MX)
+d.nedoloujko@eips-protocol.com,eips-protocol.com,,,Impossible (résolution MX échouée),Impossible (MX)
+h.queyroi@eshra.dz,eshra.dz,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+e.vyain@ecrinblanc.com,ecrinblanc.com,mail1063.onamae.ne.jp,Non,Inexistant (SMTP 550),Inexistant
+juliette.lecrouhennec@eklohotels.com,eklohotels.com,eklohotels-com.mail.protection.outlook.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+l.andre@elegance.fr,elegance.fr,elegance-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+n.favraud@elireima.fr,elireima.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+l.berlie@eona-lab.com,eona-lab.com,eonalab-com01b.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+m.mostacci@epureskin.fr,epureskin.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+p.server@equalia.fr,equalia.fr,equalia-fr.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+m.kestelyn@equalia.fr,equalia.fr,equalia-fr.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+f.lenglet@erafrance.com,erafrance.com,france.security-mail.net,Non,Inexistant (SMTP 550),Inexistant
+s.escalelautru@escaledetente.fr,escaledetente.fr,mx1.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+y.morin@espacebeaute.fr,espacebeaute.fr,mx186.mb1p.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+m.vidal@espacebeaute-bienetre.fr,espacebeaute-bienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+n.franck@lavillaspa.fr,lavillaspa.fr,mta-gw.infomaniak.ch,Non,Inexistant (SMTP 550),Inexistant
+direction@espritdefrance.com,espritdefrance.com,espritdefrance-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+c.coulomb@espritzenetsens.fr,espritzenetsens.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+contact@estheticandco-beziers.fr,estheticandco-beziers.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+t.leborgne@ethicspa.fr,ethicspa.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+mc.ferrand@etre.fr,etre.fr,mx1.netim.net,Non,Incertain (Code 554 : 5.7.1 <mc.ferrand@etre.fr>: Relay access denied),Incertain
+g.barriere@ets-barriere.fr,ets-barriere.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+n.beernaert@eucalyptus-essaouira.com,eucalyptus-essaouira.com,,,Impossible (résolution MX échouée),Impossible (MX)
+pierre.laugier@sothebysrealty.com,sothebysrealty.com,sothebysrealty-com.mail.protection.outlook.com,Non,Valide (SMTP 250),Valide
+y.aure@exhore.fr,exhore.fr,exhore-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+a.carpentier@exprimetoi.fr,exprimetoi.fr,exprimetoi-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+nicolas.dubois@fairmont.com,fairmont.com,accor.in.tmes.trendmicro.eu,Non,Valide (SMTP 250),Valide
+n.joly@fahrenheitseven.com,fahrenheitseven.com,fahrenheitseven-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+k.e@fasthotel.com,fasthotel.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+c.caudwell@fasthotel.com,fasthotel.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+p.blanchet@fasthotel.com,fasthotel.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+r.lassoued@fasthotel.com,fasthotel.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+v.yago@fasthotel.com,fasthotel.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+b.laborie@fasthotel.com,fasthotel.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+r.marcelino@fasthotel.com,fasthotel.com,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+f.desmurs@thekitchenfriends.fr,thekitchenfriends.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+m.estenechauvin@femininpluriel.org,femininpluriel.org,mta-gw.infomaniak.ch,Non,Inexistant (SMTP 550),Inexistant
+r.lay@tousensons.fr,tousensons.fr,mx1.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+l.dulayet@finamar.fr,finamar.fr,finamar-fr.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+j.pochelu@findyourself.fr,findyourself.fr,aspmx.l.google.com,Non,Inexistant (SMTP 550),Inexistant
+philippe.technique@fiveseashotel.com,fiveseashotel.com,fiveseashotel-com.mail.protection.outlook.com,Non,Inexistant (SMTP 550),Inexistant
+cdiaz@fluidra.fr,fluidra.fr,mxb-0061d001.gslb.pphosted.com,Non,Expéditeur rejeté par le serveur (code 550 : 5.7.1 Command rejected) - vérification impossible,Erreur (voir Resultat_SMTP)
+s.chaboud@formedo.fr,formedo.fr,mx4.mail.ovh.net,Non,"Incertain (Code 450 : 4.7.1 Client host rejected: cannot find your reverse hostname, [57.151.128.217])",Incertain
+m.cantarella@formeetbienetre.fr,formeetbienetre.fr,,,Impossible (résolution MX échouée),Impossible (MX)
+y.duboc@formeo.fr,formeo.fr,smtp.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+c.besnard@formeo.fr,formeo.fr,smtp.google.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
+silke.maulick@fourseasons.com,fourseasons.com,mx2.fourseasons.iphmx.com,Oui,Catch-all détecté (résultat non fiable),Catch-all (non fiable)
